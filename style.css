@@ -12,4 +12,6 @@ body {
 
 button {
     background-color: lightgray;
+    color: white;
+     font-family: "Roboto Mono", monospace;
 }
