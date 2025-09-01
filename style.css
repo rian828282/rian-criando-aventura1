@@ -15,3 +15,11 @@ button {
     color: white;
      font-family: "Roboto Mono", monospace;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
