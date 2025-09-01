@@ -22,4 +22,10 @@ button {
 
 .passo.ativo{
     display: block;
+
+}
+
+a {
+    display: flex;
+    justify-content: center;
 }
