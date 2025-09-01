@@ -2,7 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family: "Roboto Mono", monospace;
-   display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 700px;
@@ -26,6 +26,7 @@ button {
 }
 
 a {
-    display: flex;
+display: flex;
     justify-content: center;
+    align-items: center;
 }
